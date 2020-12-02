@@ -1,3 +1,3 @@
 <?php
-include_once("srai655_home.html");
+include_once("srai655.html");
 ?>
