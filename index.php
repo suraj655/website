@@ -1,3 +1,3 @@
 <?php
-include_once("suraj655.html");
+include_once("suraj655_home.html");
 ?>
